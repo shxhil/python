@@ -1,0 +1,35 @@
+/*tagname|className|id*/
+
+body{
+    background-color: black;
+}
+/* h1{
+    color: aqua;
+} */
+#first{
+    color: #33FFF0;
+}
+.item{
+    color: rgb(192, 85, 85);
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+.item2{
+    color: white;
+    text-decoration: line-through;
+    text-decoration-color: red;
+
+}
+.item1{
+    color: rgb(16, 199, 193);
+
+}
+.item3{
+    color: rgb(69, 221, 170);
+}
+.main_head h1{
+    color: aqua;
+}
+.main_head h1:nth-child(2){
+    color: antiquewhite;
+}

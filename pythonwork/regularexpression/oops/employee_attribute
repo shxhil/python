@@ -1,0 +1,18 @@
+employe
+
+name 
+id
+gender
+sallary
+phn no
+account no
+address
+
+
+mobile
+attribute=  create()
+            list()
+            update()
+            distroy()
+            retrivr()
+        

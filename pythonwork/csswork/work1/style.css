@@ -1,0 +1,13 @@
+body{
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    position: absolute;
+}
+.first{
+    position: relative;
+
+}
+.first .one:nth-child(1){
+    background-color: aqua;
+}

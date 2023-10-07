@@ -1,0 +1,48 @@
+.main-head {
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+.item{
+    width: 70%;
+    height: 50%;
+    /* max-width: 300px;
+    min-height: 300px; */
+    border: 1px solid black;
+}
+/* bg-primary=blue
+bg-warning=yellow
+bg-danger=red
+bg-success=green */
+.bg-primary{
+    background-color:blue;
+}
+.bg-warning{
+    background-color: yellow;
+}
+.bg-danger{
+    background-color: red;
+}
+.bg-success{
+    background-color: green;
+}
+.row{
+    width: 850px;
+    height: 400px;
+    background-color: black;
+    border: 1px solid black;
+
+}
+.col{
+    width: 50%;
+    height: 50%;
+    background-color: white;
+}
+.col-2{
+    width: 50vw;
+    height: 200px;
+    background-color: aqua;
+    border: 1px solid black;
+}
